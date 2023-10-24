@@ -166,7 +166,7 @@ The following example illustrates how to achieve vertical orientation in ButtonG
 
 {% if page.publishingplatform == "typescript" %}
 
- {% tabs %}
+{% tabs %}
 {% highlight html tabtitle="index.html" %}
 {% include code-snippet/button-group/vertical-cs1/index.html %}
 {% endhighlight %}
