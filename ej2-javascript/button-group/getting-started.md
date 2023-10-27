@@ -73,9 +73,6 @@ The ButtonGroup CSS files are available in the ej2-splitbuttons package folder. 
 {% endhighlight %}
 {% endtabs %}
 
-> You can check out the [themes](https://ej2.syncfusion.com/documentation/appearance/theme/) section to know more about built-in themes and CSS reference for individual controls.
-
-
 ## Add ButtonGroup to the project
 
 Add the HTML div tag with class name as `e-btn-group` and the button elements that should group inside the div element with class name as
