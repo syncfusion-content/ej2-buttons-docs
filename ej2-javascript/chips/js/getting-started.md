@@ -53,7 +53,8 @@ The below located script and style file contains all Syncfusion JavaScript (ES5)
        <head>
             <title>Essential JS 2</title>
             <!-- Essential JS 2 material theme -->
-            <link href="resources/material.css" rel="stylesheet" type="text/css"/>
+            <link href="resources/dropdowns/styles/material.css" rel="stylesheet" type="text/css"/>
+            <link href="resources/base/styles/material.css" rel="stylesheet" type="text/css"/>
 
             <!-- Essential JS 2 Button's global and dependent script -->
             <script src="resources/ej2-buttons.min.js" type="text/javascript"></script>
@@ -72,7 +73,8 @@ The below located script and style file contains all Syncfusion JavaScript (ES5)
        <head>
             <title>Essential JS 2</title>
             <!-- Essential JS 2 material theme -->
-            <link href="resources/material.css" rel="stylesheet" type="text/css"/>
+            <link href="resources/dropdowns/styles/material.css" rel="stylesheet" type="text/css"/>
+            <link href="resources/base/styles/material.css" rel="stylesheet" type="text/css"/>
 
             <!-- Essential JS 2 Button's global and dependent script -->
             <script src="resources/ej2-buttons.min.js" type="text/javascript"></script>
