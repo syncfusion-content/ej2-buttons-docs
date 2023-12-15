@@ -168,3 +168,5 @@ The [`Custom Resource Generator (CRG)`](https://crg.syncfusion.com/) is an onlin
 {% previewsample "page.domainurl/code-snippet/speed-dial/es5-getting-started-cs1" %}
 
 **Step 4:** Now, run the `index.html` in web browser, it will render the `Syncfusion JavaScript SpeedDial` control.
+
+N> You can refer to our [JavaScript Speed Dial](https://www.syncfusion.com/javascript-ui-controls/js-speed-dial) feature tour page for its groundbreaking feature representations. You can also explore our [JavaScript Speed Dial example](https://ej2.syncfusion.com/demos/#/bootstrap5/speed-dial/default.html) that shows you how to render JavaScript in Speed Dial.
