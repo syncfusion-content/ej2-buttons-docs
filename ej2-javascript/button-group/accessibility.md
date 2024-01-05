@@ -11,9 +11,9 @@ domainurl: ##DomainURL##
 
 # Accessibility in ##Platform_Name## Button group control
 
-The Button Group component followed the accessibility guidelines and standards, including [ADA](https://www.ada.gov/), [Section 508](https://www.section508.gov/), [WCAG 2.2](https://www.w3.org/TR/WCAG22/) standards, and [WCAG roles](https://www.w3.org/TR/wai-aria/#roles) that are commonly used to evaluate accessibility.
+The Button group component followed the accessibility guidelines and standards, including [ADA](https://www.ada.gov/), [Section 508](https://www.section508.gov/), [WCAG 2.2](https://www.w3.org/TR/WCAG22/) standards, and [WCAG roles](https://www.w3.org/TR/wai-aria/#roles) that are commonly used to evaluate accessibility.
 
-The accessibility compliance for the Button Group component is outlined below.
+The accessibility compliance for the Button group component is outlined below.
 
 | Accessibility Criteria | Compatibility |
 | -- | -- |
@@ -41,20 +41,34 @@ The accessibility compliance for the Button Group component is outlined below.
 
 ## Keyboard interaction
 
-The Button Group component followed the [keyboard interaction](https://www.w3.org/WAI/ARIA/apg/patterns/button/#keyboardinteraction) guideline, making it easy for people who use assistive technologies (AT) and those who completely rely on keyboard navigation. The following keyboard shortcuts are supported by the Button Group component.
+The Button group component followed the [keyboard interaction](https://www.w3.org/WAI/ARIA/apg/patterns/button/#keyboardinteraction) guideline, making it easy for people who use assistive technologies (AT) and those who completely rely on keyboard navigation. The following keyboard shortcuts are supported by the Button group component.
+
+### Normal behavior
 
 | **Press** | **To do this** |
 | --- | --- |
-| <kbd>Tab</kbd> | Focuses the next button in the multiple selection type Button Group. |
-| <kbd>Shift + Tab</kbd> | Focuses the previous button in the multiple selection Button Group. |
-| <kbd>Arrow</kbd> | Focuses and activates the next / previous button in the single selection Button Group. |
-| <kbd>Space</kbd> | Activates the focused button in the Button Group. |
+| <kbd>Tab</kbd> | Focuses the next button in the ButtonGroup. |
+| <kbd>Enter/Space</kbd> | Activates the focussed button in the ButtonGroup. |
+
+### Checkbox behavior
+
+| **Press** | **To do this** |
+| --- | --- |
+| <kbd>Tab</kbd> | Focuses the next button in the ButtonGroup. |
+| <kbd>Space</kbd> | Activates the focussed button in the ButtonGroup. |
+
+### Radiobutton behavior
+
+| **Press** | **To do this** |
+| --- | --- |
+| <kbd>Tab</kbd> | Focuses the active button in the ButtonGroup. |
+| <kbd>Right</kbd> | Activates next/previous button in the ButtonGroup. |
 
 ## Ensuring accessibility
 
-The Button Group component's accessibility levels are ensured through an [accessibility-checker](https://www.npmjs.com/package/accessibility-checker) and [axe-core](https://www.npmjs.com/package/axe-core) software tools during automated testing.
+The Button group component's accessibility levels are ensured through an [accessibility-checker](https://www.npmjs.com/package/accessibility-checker) and [axe-core](https://www.npmjs.com/package/axe-core) software tools during automated testing.
 
-The accessibility compliance of the Button Group component is shown in the following sample. Open the [sample](https://ej2.syncfusion.com/accessibility/button-group.html) in a new window to evaluate the accessibility of the Button Group component with accessibility tools.
+The accessibility compliance of the Button group component is shown in the following sample. Open the [sample](https://ej2.syncfusion.com/accessibility/button-group.html) in a new window to evaluate the accessibility of the Button group component with accessibility tools.
 
 {% previewsample "https://ej2.syncfusion.com/accessibility/button-group.html" %}
 
