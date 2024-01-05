@@ -61,7 +61,7 @@ The Check box component's accessibility levels are ensured through an [accessibi
 
 The accessibility compliance of the Check box component is shown in the following sample. Open the [sample](https://ej2.syncfusion.com/accessibility/Check box.html) in a new window to evaluate the accessibility of the Check box component with accessibility tools.
 
-{% previewsample "https://ej2.syncfusion.com/accessibility/Check box.html" %}
+{% previewsample "page.domainurl/code-snippet/check-box/state-cs1" %}
 
 ## See also
 

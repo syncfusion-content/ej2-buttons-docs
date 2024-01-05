@@ -62,7 +62,7 @@ The Radio button component component's accessibility levels are ensured through 
 
 The accessibility compliance of the Radio button component is shown in the following sample. Open the [sample](https://ej2.syncfusion.com/accessibility/Radio button.html) in a new window to evaluate the accessibility of the Radio button component with accessibility tools.
 
-{% previewsample "https://ej2.syncfusion.com/accessibility/Radio button.html" %}
+{% previewsample "page.domainurl/code-snippet/radio-button/accessibility-cs1" %}
 
 ## See also
 

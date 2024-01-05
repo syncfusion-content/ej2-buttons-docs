@@ -62,7 +62,7 @@ The Progress button component's accessibility levels are ensured through an [acc
 
 The accessibility compliance of the Progress button component is shown in the following sample. Open the [sample](https://ej2.syncfusion.com/accessibility/progress-button.html) in a new window to evaluate the accessibility of the Progress button component with accessibility tools.
 
-{% previewsample "https://ej2.syncfusion.com/accessibility/progress-button.html" %}
+{% previewsample "page.domainurl/code-snippet/progress-button/getting-started-cs1" %}
 
 ## See also
 

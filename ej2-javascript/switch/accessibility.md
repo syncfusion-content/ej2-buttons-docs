@@ -62,7 +62,7 @@ The Switch component's accessibility levels are ensured through an [accessibilit
 
 The accessibility compliance of the Switch component is shown in the following sample. Open the [sample](https://ej2.syncfusion.com/accessibility/switch.html) in a new window to evaluate the accessibility of the Switch component with accessibility tools.
 
-{% previewsample "https://ej2.syncfusion.com/accessibility/switch.html" %}
+{% previewsample "page.domainurl/code-snippet/switch/state-cs1" %}
 
 ## See also
 

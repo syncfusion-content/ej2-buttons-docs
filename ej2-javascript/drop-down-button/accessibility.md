@@ -70,7 +70,7 @@ The Drop down component's accessibility levels are ensured through an [accessibi
 
 The accessibility compliance of the Drop down button component is shown in the following sample. Open the [sample](https://ej2.syncfusion.com/accessibility/drop-down-button.html) in a new window to evaluate the accessibility of the Drop down button component with accessibility tools.
 
-{% previewsample "https://ej2.syncfusion.com/accessibility/drop-down-button.html" %}
+{% previewsample "page.domainurl/code-snippet/drop-down-button/accessibility-cs1" %}
 
 ## See also
 
