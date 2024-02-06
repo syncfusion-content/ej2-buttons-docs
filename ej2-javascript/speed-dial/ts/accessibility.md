@@ -46,12 +46,12 @@ The Speed Dial control followed the [WAI-ARIA](https://www.w3.org/WAI/ARIA/apg/p
 
 | Attributes | Purpose  |
 | ------------ | ----------------------- |
-| `role=menu` | Specifies that the SpeedDial item has a submenu.|
-| `role=menuitem` | Indicates an actionable item within the SpeedDial submenu. |
-| `aria-label` | Indicates the SpeedDial Popup item text. |
-| `aria-expanded` | It indicates whether the SpeedDial current state is expanded or collapsed. |
-| `aria-haspopup` | It indicates whether the SpeedDial has popup items or not. |
-| `aria-controls` | Attribute is set to the SpeedDial button and it points to the corresponding content. |
+| `role=menu` | Specifies that the Speed Dial item has a submenu.|
+| `role=menuitem` | Indicates an actionable item within the Speed Dial submenu. |
+| `aria-label` | Indicates the Speed Dial Popup item text. |
+| `aria-expanded` | It indicates whether the Speed Dial current state is expanded or collapsed. |
+| `aria-haspopup` | It indicates whether the Speed Dial has popup items or not. |
+| `aria-controls` | Attribute is set to the Speed Dial button and it points to the corresponding content. |
 | `aria-disabled` | Indicates the state of menu item whether it is disabled. |
 
 ## Keyboard interaction
