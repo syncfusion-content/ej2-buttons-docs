@@ -165,3 +165,39 @@ You can use [`opensOnHover`](../api/speed-dial#opensonhover) property to open ac
 {% endtabs %}
         
 {% previewsample "page.domainurl/code-snippet/speed-dial/styles-cs6" %}
+
+## Customize SpeedDial Open/Close Icon
+
+You can modify the icons that appear when opening or closing the SpeedDial menu. To achieve it, you can use the [`openIconCss`](../api/speed-dial#openiconcss) and [`closeIconCss`](../api/speed-dial#closeiconcss) properties to define custom icons for the open and close menu actions of the SpeedDial, respectively.
+
+{% tabs %}
+{% highlight js tabtitle="index.js" %}
+{% include code-snippet/speed-dial/customize/customize-opencloseicon/index.js %}
+{% endhighlight %}
+{% highlight html tabtitle="index.html" %}
+{% include code-snippet/speed-dial/customize/customize-opencloseicon/index.html %}
+{% endhighlight %}
+{% highlight css tabtitle="styles.css" %}
+{% include code-snippet/speed-dial/customize/customize-opencloseicon/styles.css %}
+{% endhighlight %}
+{% endtabs %}
+        
+{% previewsample "page.domainurl/code-snippet/speed-dial/customize/customize-opencloseicon" %}
+
+## Customize SpeedDial Position using CssClass
+
+You can customize the position of the speeddial by using the [`cssClass`](../api/speed-dial#cssclass) property. This allows you to apply a custom CSS class to your target element and you can adjust the position within this class to control the placement of the SpeedDial.
+
+{% tabs %}
+{% highlight js tabtitle="index.js" %}
+{% include code-snippet/speed-dial/customize/customize-position/index.js %}
+{% endhighlight %}
+{% highlight html tabtitle="index.html" %}
+{% include code-snippet/speed-dial/customize/customize-position/index.html %}
+{% endhighlight %}
+{% highlight css tabtitle="styles.css" %}
+{% include code-snippet/speed-dial/customize/customize-position/styles.css %}
+{% endhighlight %}
+{% endtabs %}
+        
+{% previewsample "page.domainurl/code-snippet/speed-dial/customize/customize-position" %}

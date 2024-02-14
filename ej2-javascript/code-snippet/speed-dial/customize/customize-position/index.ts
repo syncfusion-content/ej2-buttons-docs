@@ -13,6 +13,7 @@ var items = [
 // Initialize the SpeedDial control
 let speedDial: SpeedDial = new SpeedDial({
     items: items,
+    content: 'Edit',
     target: '#targetElement',
     cssClass: 'speeddial-position'
 });

@@ -10,8 +10,9 @@ var items = [
 // Initialize the SpeedDial control
 var speedDial = new ej.buttons.SpeedDial({
     items: items,
-    content: 'Edit',
-    target: '#targetElement'
+    target: '#targetElement',
+    openIconCss: "e-icons speeddial-icon-open",
+    closeIconCss: "e-icons speeddial-icon-close"
 });
 
 // Render initialized SpeedDial

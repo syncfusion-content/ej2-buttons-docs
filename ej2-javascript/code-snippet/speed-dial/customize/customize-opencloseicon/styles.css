@@ -1,0 +1,29 @@
+#container {
+  visibility: hidden;
+}
+
+#loader {
+  color: #008cff;
+  height: 40px;
+  left: 45%;
+  position: absolute;
+  top: 45%;
+  width: 30%;
+}
+
+.speeddial-default-target {
+  min-height: 200px;
+  position: relative;
+  margin: 35px;
+  border: 1px solid;
+  width: 400px;
+}
+
+/* Custom styles for speeddial menu icon */
+.speeddial-icon-open:before {
+  content: '\e99a';
+}
+
+.speeddial-icon-close:before {
+  content: '\e99d';
+}
