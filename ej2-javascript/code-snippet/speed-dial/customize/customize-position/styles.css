@@ -1,0 +1,27 @@
+#container {
+  visibility: hidden;
+}
+
+#loader {
+  color: #008cff;
+  height: 40px;
+  left: 45%;
+  position: absolute;
+  top: 45%;
+  width: 30%;
+}
+
+.speeddial-default-target {
+  min-height: 300px;
+  position: relative;
+  margin: 35px;
+  border: 1px solid;
+  width: 400px;
+}
+
+#targetElement > button.speeddial-position {
+  left: 100px;
+  top: 180px;
+  right: unset !important;
+  bottom: unset !important;
+}
