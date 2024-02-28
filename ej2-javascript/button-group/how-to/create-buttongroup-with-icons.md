@@ -2,7 +2,7 @@
 layout: post
 title: Create buttongroup with icons in ##Platform_Name## Button group control | Syncfusion
 description: Learn here all about Create buttongroup with icons in Syncfusion ##Platform_Name## Button group control of Syncfusion Essential JS 2 and more.
-platform: ej2-javascript
+platform: ej2-javascriptdocs
 control: Create buttongroup with icons 
 publishingplatform: ##Platform_Name##
 documentation: ug
@@ -19,7 +19,7 @@ The following example illustrates how to create ButtonGroup with icons.
 
  {% tabs %}
 {% highlight html tabtitle="index.html" %}
-{% include code-snippet/button-group/icon-cs1/index.html %}
+{% include code-snippet/ %}
 {% endhighlight %}
 {% highlight css tabtitle="styles.css" %}
 {% include code-snippet/button-group/icon-cs1/styles.css %}
@@ -32,7 +32,7 @@ The following example illustrates how to create ButtonGroup with icons.
 
 {% tabs %}
 {% highlight html tabtitle="index.html" %}
-{% include code-snippet/button-group/icon-cs1/index.html %}
+{% include code-snippet/butt %}
 {% endhighlight %}
 {% highlight css tabtitle="styles.css" %}
 {% include code-snippet/button-group/icon-cs1/styles.css %}
